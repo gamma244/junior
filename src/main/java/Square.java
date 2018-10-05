@@ -15,6 +15,7 @@ public class Square {
         for (int i = 1; i < bound + 1; i++) {
             rst[i - 1] = i * i;
         }
+        int sum = 5 + 5;
         return rst;
     }
 }
